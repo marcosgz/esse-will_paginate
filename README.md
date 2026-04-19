@@ -2,6 +2,10 @@
 
 This gem is a [esse](https://github.com/marcosgz/esse) plugin for the [will_paginate](https://github.com/mislav/will_paginate) pagination.
 
+## Documentation
+
+Full guides, pagination examples, and API reference are published at **[gems.marcosz.com.br/esse-will_paginate](https://gems.marcosz.com.br/esse-will_paginate/)** — part of the [marcosgz Ruby gem catalogue](https://gems.marcosz.com.br).
+
 ## Installation
 
 Add this line to your application's Gemfile:
