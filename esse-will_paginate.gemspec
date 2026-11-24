@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "WillPaginate extensions for Esse"
   spec.description = "WillPaginate extensions for Esse"
   spec.homepage = "https://github.com/marcosgz/esse-will_paginate"
-  spec.license = "MIT"
+  spec.license = "GPL-3.0-or-later"
   spec.required_ruby_version = ">= 2.4.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
